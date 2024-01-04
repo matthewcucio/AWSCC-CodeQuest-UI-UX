@@ -35,5 +35,5 @@ _(just choose the questions you would like to answer and make it concise)_
 <h2 align=center> It's Centered That </h2>
 
 <p align=center>
-<img width=500px src="../../assets/My images for submissions/Day 1 It's Centered That.png">
+<img width=500px src="assets/My Images for submissions/Day 1 It's Centered That.PNG">
 </p>
