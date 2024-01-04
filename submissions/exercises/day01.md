@@ -34,6 +34,8 @@ _(just choose the questions you would like to answer and make it concise)_
 
 #### 2. An **optional** screenshot of playing the game **"It's Centred That"** and your feedback
 
+<img src="assets\My Images for submissions\Day 1 It's Centered That.PNG">
+
 <br>Ready to include your output for **Day 1**? Let the customization begin! 🚀✨
 
 <!-- You may now delete and modify the content of this file -->
