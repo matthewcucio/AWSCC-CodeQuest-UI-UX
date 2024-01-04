@@ -32,10 +32,8 @@ _(just choose the questions you would like to answer and make it concise)_
     
     <br>
 
-#### 2. An **optional** screenshot of playing the game **"It's Centred That"** and your feedback
+<h2 align=center> It's Centered That </h2>
 
-<img src="F:\1 Soft Dev\AWSCC-CodeQuest-UI-UX\assets\My Images for submissions\Day 1 It's Centered That.PNGG">
-
-<br>Ready to include your output for **Day 1**? Let the customization begin! 🚀✨
-
-<!-- You may now delete and modify the content of this file -->
+<p align=center>
+<img width=500px src="../../assets/My images for submissions/Day 1 It's Centered That.png">
+</p>
