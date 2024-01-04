@@ -4,8 +4,6 @@
 
 You've made it—great job! Now, here's the scoop: this markdown file is your **canvas**. Customize it; let your creativity flow!
 
-Remember, you're free to add your personal touch, but keep the sacred requirements intact; they are the guardians of order here. This markdown file should or may include:
-
 #### 1. UI and UX analyses for Day 1
 
 _(just choose the questions you would like to answer and make it concise)_
@@ -13,7 +11,7 @@ _(just choose the questions you would like to answer and make it concise)_
 &nbsp;&nbsp;&nbsp;&nbsp;**User-Experience Analysis:**<br/>
 
 -   Which website is easier to find the product you are looking for?<br/>
-    Answer:
+    Answer: Shopee lods
 
 -   Identify any distractions or unnecessary elements that could potentially confuse users.<br/>
     Answer:
