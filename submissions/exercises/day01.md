@@ -1,13 +1,11 @@
-## Hello there, my fellow Alfbuddy! 💖
+## <h1 align=center> Hello there, my fellow Alfbuddy! 💖 </h1>
 
-<img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
+<p align=center>
+<img width="250px" src="../../assets/alf/alf-ufo.png"> <br/>
+</p>
 
-You've made it—great job! Now, here's the scoop: this markdown file is your **canvas**. Customize it; let your creativity flow!
+#### <h2 align=center> 1. UI and UX analyses for Day 1 </h2>
 
-#### 1. UI and UX analyses for Day 1
-
-_(just choose the questions you would like to answer and make it concise)_
-<br/><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**User-Experience Analysis:**<br/>
 
 -   Which website is easier to find the product you are looking for?<br/>
