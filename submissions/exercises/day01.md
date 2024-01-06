@@ -50,4 +50,4 @@
 
 It was fun playing the “It's Centered That” game and luckily, I answered the 10 items correctly on my first try. As the challenge progressed, particularly with items 7-10 becoming more difficult, I spent more than 5 minutes on each item to look and focus intensely if the dot was really centered. 
 
-Despite the heightened challenge in the latter part of the game, the overall experience was engaging and entertaining. The game effectively combined fun and concentration, offering a unique blend of enjoyment and mental stimulation. I appreciated the balance between difficulty levels, making the entire gameplay both a satisfying accomplishment and an entertaining challenge.
+Despite the heightened challenge in the latter part of the game, the overall experience was engaging and entertaining. The game effectively combined fun and concentration, offering a unique blend of enjoyment and mental stimulation. I appreciated the balance between difficulty levels, making the entire gameplay both a satisfying accomplishment and an entertaining challenge. 
