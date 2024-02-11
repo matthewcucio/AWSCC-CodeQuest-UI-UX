@@ -46,7 +46,7 @@
 
 
 <p align=center>
-<img width=500px src="assets/My Images for submissions/Day 1 It's Centered That.PNG">
+<img src="../../assets/My Images for submissions/Day 1 It's Centered That.PNG">
 </p>
 
 
