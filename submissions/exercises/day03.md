@@ -29,4 +29,7 @@ Each round of the game gave me a new challenge. I had to pay close attention to 
 What's even cooler is that the game wasn't just for fun. It actually helped me get better at noticing details and understanding why certain designs work better than others. Plus, it was awesome to compare scores and chat about the designs with my friends.
 
 Looking back, playing the Can't Unsee game wasn't just a way to pass the time. It was a fun way to learn more about design and challenge myself to become better at spotting little details. Now, I feel more confident in my design skills and can't wait to use what I've learned in future projects!
+
+##
+
 <!-- You may now delete and modify the content of this file -->

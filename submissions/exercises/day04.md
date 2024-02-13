@@ -1,6 +1,10 @@
-## Hello there, my fellow Alfbuddy! 💖
+## <h1 align=center> Hello there, my fellow Alfbuddy! 💖 </h1>
 
-<img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
+<p align=center>
+<img width="250px" src="../../assets/alf/alf-ufo.png"> <br/>
+</p>
+
+#### <h2 align=center> 1. UI and UX analyses for Day 1 </h2>
 
 You've made it—great job! Now, here's the scoop: this markdown file is your **canvas**. Customize it; let your creativity flow!
 
