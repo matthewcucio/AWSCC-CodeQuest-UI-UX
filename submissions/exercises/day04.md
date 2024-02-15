@@ -14,17 +14,17 @@
 
 <h3 align=center> Visual Hierarchy</h3>
 <p align=center>
-<img width="800px" src="../../assets/My Images for submissions/Day 4 Visual Hierarchy.PNG">
+<img width="800px" src="../../assets/My Images for submissions/Day 4 Visual Hierarchy.png">
 </p>
 
 <h3 align=center> Typography</h3>
 <p align=center>
-<img width="800px" src="../../assets/My Images for submissions/Day 4 Typography.PNG">
+<img width="800px" src="../../assets/My Images for submissions/Day 4 Typography.png">
 </p>
 
 <h3 align=center> Colors</h3>
 <p align=center>
-<img width="500px" src="../../assets/My Images for submissions/Day 4 Colors.PNG">
+<img width="500px" src="../../assets/My Images for submissions/Day 4 Colors.png">
 </p>
 
 ##
@@ -32,12 +32,12 @@
 
 <h3 align=center> Exercise One</h3>
 <p align=center>
-<img width="800px" src="../../assets/My Images for submissions/Day 4 Fin Act 1.PNG">
+<img width="800px" src="../../assets/My Images for submissions/Day 4 Fin Act 1.png">
 </p>
 
 <h3 align=center> Exercise Two</h3>
 <p align=center>
-<img width="800px" src="../../assets/My Images for submissions/Day 4 Fin Act 2.PNG">
+<img width="800px" src="../../assets/My Images for submissions/Day 4 Fin Act 2.png">
 </p>
 
 <h3 align=center> Exercise Three</h3>
