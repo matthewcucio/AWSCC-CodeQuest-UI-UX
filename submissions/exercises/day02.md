@@ -3,7 +3,7 @@
 <img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
 
 **<h1 align="center"> DAY 2: Figma Basics </h1>**
-**_I had ever wished for a magical canvas where creativity knows no bounds, and collaboration seamlessly intertwines with design?_**
+**_I had ever wished for a magical canvas where creativity knows no bounds, and collaboration seamlessly intertwines with design!_**
 
 In this challenge, I entered Figma, the virtual wonderland for designers and creative teams alike. Imagine a platform that not only brings your design visions to life but also transforms collaboration into an art form!
 
