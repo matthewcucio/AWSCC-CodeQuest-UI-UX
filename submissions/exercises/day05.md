@@ -19,12 +19,6 @@ As I continue on this journey of mastering Figma's advanced concepts, I am excit
 https://www.figma.com/file/2crgHfr5VBQ96DcSgD9Aea/AWSCC-Figma-Workshop%3A-Advance-(Community)?type=design&node-id=15%3A22&mode=design&t=6kcgQ7ssgDcD9Abg-1
 
 
-
-Remember, you're free to add your personal touch, but keep the sacred requirements intact; they are the guardians of order here. This markdown file should or may include:
-- Link to your own file of "Advance Figma Tutorial"
-- Brief explanation of your experience or reflection
-- An **optional** screenshot of playing the games provided in Day 5 and your feedback
-
 <h1> Games </h1>
 
 <p align=center>
@@ -66,5 +60,45 @@ Remember, you're free to add your personal touch, but keep the sacred requiremen
 <p align=center>
 <img src="../../assets/My Images for submissions/Day 5 Bezier Completed.PNG">
 </p>
+
+##
+
+<p align=center>
+<img src="../../assets/My Images for submissions/Day 5 Kerntype 1.PNG">
+</p>
+
+##
+
+<div style="display:flex; justify-content:center;">
+  <img src="../../assets/My Images for submissions/Day 5 Kerntype 2.PNG" style="width:455px;">
+  <img src="../../assets/My Images for submissions/Day 5 Kerntype 3.PNG" style="width:455px;">
+</div>
+
+##
+
+<p align=center>
+<img src="../../assets/My Images for submissions/Day 5 Kerntype 4.PNG">
+</p>
+
+##
+
+<p align=center>
+<img src="../../assets/My Images for submissions/Day 5 The Boolean Game 1.PNG">
+</p>
+
+##
+
+<div style="display:flex; justify-content:center;">
+  <img src="../../assets/My Images for submissions/Day 5 The Boolean Game 2.PNG" style="width:455px;">
+  <img src="../../assets/My Images for submissions/Day 5 The Boolean Game 3.PNG" style="width:455px;">
+</div>
+
+##
+
+<p align=center>
+<img src="../../assets/My Images for submissions/Day 5 The Boolean Game 4.PNG">
+</p>
+
+##
 
 <!-- You may now delete and modify the content of this file -->
