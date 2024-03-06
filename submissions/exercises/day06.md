@@ -21,4 +21,11 @@ As I continue to delve deeper into prototyping, I am excited about the possibili
 https://www.figma.com/file/2crgHfr5VBQ96DcSgD9Aea/AWSCC-Figma-Workshop%3A-Advance-(Community)?type=design&node-id=15%3A22&mode=design&t=6kcgQ7ssgDcD9Abg-1
 
 
-<!-- You may now delete and modify the content of this file -->
+##
+<h1> Prototype Activity </h1>
+
+<p align=center>
+<img src="../../assets/My Images for submissions/Day 6 Activity.PNG">
+</p>
+
+##
