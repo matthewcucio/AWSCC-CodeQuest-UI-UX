@@ -18,8 +18,7 @@ As I continue to delve deeper into prototyping, I am excited about the possibili
 
 <br/>**Link to my own file of **"Figma Tutorial (Advance)":****
 
-https://www.figma.com/file/2crgHfr5VBQ96DcSgD9Aea/AWSCC-Figma-Workshop%3A-Advance-(Community)?type=design&node-id=15%3A22&mode=design&t=6kcgQ7ssgDcD9Abg-1
-
+https://www.figma.com/file/GmB8WCvHtDBfB9FJu31LVj/AWSCC-Figma-Workshop%3A-Prototype-(Community)?type=design&node-id=2%3A10687&mode=design&t=xkXj3ni7jRolRGnj-1
 
 ##
 <h1> Prototype Activity </h1>
