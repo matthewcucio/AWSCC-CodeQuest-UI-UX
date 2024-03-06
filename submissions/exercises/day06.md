@@ -1,9 +1,12 @@
-## Hello there, my fellow Alfbuddy! 💖
+## <h1 align=center> DAY 3: Design Principles </h1>
 
-<img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
+<p align=center>
+<img width="250px" src="../../assets/alf/alf-ufo.png"> <br/>
+</p>
 
-You've made it—great job! Now, here's the scoop: this markdown file is your **canvas**. Customize it; let your creativity flow!
+#### <h2 align=center>  Hello there, my fellow Alfbuddy! 💖  </h2>
 
+**Day 3: Design Principles**<br/>
 Remember, you're free to add your personal touch, but keep the sacred requirements intact; they are the guardians of order here. This markdown file should include:
 - Link to your own file of **"Figma Prototype Tutorial"**
 
