@@ -6,13 +6,15 @@
 
 **<h1 align=center> Day 7: Wireframe Fidelity**<br/></h1>
 
-Going through the path of mastering Figma's prototyping features, it has been a transformative journey, where I've learned to transform static designs into interactive marvels. Figma has proven to be more than just a design tool, it's a dynamic platform where I can simulate user interactions, test functionalities, and bring my designs to life seamlessly.
+Going through my journey to master wireframe fidelity in Figma has been an enlightening experience, offering a deeper understanding of how to transform design ideas into tangible digital prototypes. Wireframes, often likened to blueprints, serve as the foundation for digital masterpieces, focusing on essential elements without being bogged down by colors and fancy details.
 
-Through prototyping, I've learned to make my designs clickable and interactive, connecting buttons and screens, adding transitions and animations with features like Smart Animate for smooth movements. This process has allowed me to visualize the flow of my creations effortlessly, all within a single space.
+Starting with low-fidelity wireframes, I learned to create rough sketches that capture the basic structure and layout of a digital product. These lo-fi wireframes have indeed proven invaluable for brainstorming and exploring different concepts quickly and efficiently, allowing for easy iteration and feedback.
 
-Prototyping in Figma has not only enabled me to create interactive designs but also to easily share them for feedback. It's like a test drive for my digital creations, helping me identify and fix any issues early on to improve the overall user experience.
+As I progress to mid-fidelity wireframes, I'm adding more detail to the structure, creating a more polished draft of my designs that includes basic elements like buttons, text, and images. This stage strikes a balance between speed and detail, providing a clearer picture of the user interface and interaction flow.
 
-As I continue to delve deeper into prototyping, I am excited about the possibilities it opens up for me as a designer. With each new skill acquired, I am one step closer to creating user-friendly and efficient designs that engage and delight users.
+Looking ahead, I'm eager to delve into high-fidelity wireframes, where I will refine my designs further, adding precise details on colors, fonts, and interactive elements. These hi-fi wireframes will serve as the final blueprint before the actual development phase, providing a realistic preview of how the user interface will look and function.
+
+Overall, my journey here into wireframe fidelity has been a transformative one, equipping me with the skills and knowledge needed to create impactful and user-friendly digital designs.
 
 <br/>**Link to my own file of **"Figma Tutorial (Advance)":****
 
