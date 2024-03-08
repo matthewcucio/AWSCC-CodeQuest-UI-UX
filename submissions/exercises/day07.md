@@ -20,12 +20,18 @@ Overall, my journey here into wireframe fidelity has been a transformative one, 
 
 https://www.figma.com/file/AXmCxRIU7EJ9qV7NUbXXnx/Week-1%3A-Low-Fidelity-Layout-(Community)?type=design&node-id=0%3A1&mode=design&t=y6waTeGWBH4SWGy6-1
 
+
+
+<h1> Activity </h1>
+
+<p align=center>
+<img src="../../assets/My Images for submissions/Day 7 Activity.PNG">
+</p>
+
 ##
 
+<div style="display:flex; justify-content:center;">
+  <img src="../../assets/My Images for submissions/Day 7 screenshot of app.png" style="width:455px;">
+  <img src="../../assets/My Images for submissions/Day 7 Low-Fidelity Clone.png" style="width:455px;">
+</div>
 
-- A sneak peek of your wireframe clone to give us a glimpse of your creation
-
-
-Ready to include your output for **Day 7**? Let the customization begin! 🚀✨
-
-<!-- You may now delete and modify the content of this file -->
