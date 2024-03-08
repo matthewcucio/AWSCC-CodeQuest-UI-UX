@@ -16,9 +16,9 @@ Looking ahead, I'm eager to delve into high-fidelity wireframes, where I will re
 
 Overall, my journey here into wireframe fidelity has been a transformative one, equipping me with the skills and knowledge needed to create impactful and user-friendly digital designs.
 
-<br/>**Link to my own file of **"Figma Tutorial (Advance)":****
+<br/>**Link to my own file of **"Wireframe Fidelity":****
 
-https://www.figma.com/file/GmB8WCvHtDBfB9FJu31LVj/AWSCC-Figma-Workshop%3A-Prototype-(Community)?type=design&node-id=2%3A10687&mode=design&t=xkXj3ni7jRolRGnj-1
+https://www.figma.com/file/AXmCxRIU7EJ9qV7NUbXXnx/Week-1%3A-Low-Fidelity-Layout-(Community)?type=design&node-id=0%3A1&mode=design&t=y6waTeGWBH4SWGy6-1
 
 ##
 
